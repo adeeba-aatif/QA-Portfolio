@@ -55,10 +55,9 @@
 
 ## 🛠 Skills & Tools
 📌 **Manual Testing:** Test Case Design, Test Execution, Bug Tracking  
-📌📌 **API Testing:** Postman, REST Assured  
+📌 **API Testing:** Postman, REST Assured  
 📌 **Performance Testing:** JMeter  
 📌 **Bug Tracking & Management:** JIRA, TestRail  
-📌 **CI/CD & DevOps:** Jenkins, Docker  
 📌 **Database Testing:** MySQL  
 📌 **Version Control:** Git, GitHub  
 
@@ -73,5 +72,5 @@
 
 ## 📬 Contact Me
 📧 Email: 15.taurian@gmail.com  
-🔗 LinkedIn: [[[linkedin.com/in/yourname](https://linkedin.com/in/yourname]
+🔗 LinkedIn: [https://www.linkedin.com/in/adeeba-aatif-36148036/]
 
