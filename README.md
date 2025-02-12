@@ -9,7 +9,7 @@
 ```
 📁 QA-Portfolio/
  ┣ 📁 Manual Testing/
- ┃ ┣ 📄 Sample Test Cases.xlsx
+ ┃ ┣ 📄 Sample_Test_Cases.xlsx
  ┃ ┣ 📄 Sample Bug Reports.xlsx
  ┣ 📁 Automated Testing/
  ┃ ┣ 📄 Postman-Collection.json
