@@ -33,7 +33,7 @@
 🔹 **Outcome:** Found and reported authentication issues  
 
 📂 **Project Files:**  
-- 📝 [Sample Test Cases](https://github.com/adeeba-aatif/QA-Portfolio/blob/main/Manual%20Testing/Bug_Report_List.csv)
+- 📝 [Sample Test Cases](./Manual_Testing/Bug_Report_List.csv)
 - 🐞 [Sample Bug Reports](./Manual_Testing/Bug_Report_List.csv)
 
 
