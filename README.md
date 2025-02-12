@@ -16,15 +16,13 @@
  ┃ ┣ 📄 API-Test-Cases.xlsx
  ┣ 📁 Performance Testing/
  ┃ ┣ 📄 JMeter-Test-Scripts/
- ┣ 📁 Reports/
- ┃ ┣ 📄 Sample-Test-Execution-Report.pdf
- ┃ ┣ 📄 Sample-Bug-Tracking-Report.pdf
-  📁 Microsoft Azure/
-  📁 SCRUM/
- ┣ 📄 README.md
-```
-
----
+ ┃ 📁 SCRUM/
+ ┃ ┣ 📄 Retrospective-Report.md/
+ ┃ ┣ 📄 Scrum-Board.md/
+ ┃ ┣ 📄 Sprint-Planning.csv/
+ ┃ ┣ 📄 User-Stories.md/
+ ┃ ┣ 📄 Daily-Standup.md/
+--
 
 ## 🚀 Sample Projects
 
@@ -51,7 +49,7 @@
 - 🌐 [Postman Collection](./Automated%20Testing/Postman/Generic_API_Collection.json) 
 - 📝 [API Test Cases](./Automated%20Testing/Postman/API_Test_Cases.csv)
 
-  ### 📌 3. Performaing Testing 
+  ### 📌 3. Performance Testing 
 🔹 **Scope:** Evaluate system response time, stability, and scalability under varying user loads.   
 🔹 **Tools Used:** Jmeter   
 🔹 **Test Cases Executed:** 20+ 
@@ -59,7 +57,20 @@
 
 📂 **Project Files:**  
 - 🌐 [Jmeter Scripts](https://github.com/adeeba-aatif/QA-Portfolio/blob/main/Performance-Testing/Generic_JMeter_Test.jmx)
- 
+
+   ### 📌 4. SCRUM 
+🔹 **Scope:** Ensure that all Agile and Scrum ceremonies, sprint planning, backlog management, and sprint execution follow best practices. Validate the effectiveness of Scrum implementation in project management and product development.  
+🔹 **Tools Used:** Jira, Azure DevOps   
+🔹 **Test Cases Executed:** 15+ test cases for sprint backlog validation, 10+ test cases for Scrum ceremonies (standups, reviews, retrospectives), and 20+ test cases for user story acceptance criteria and Definition of Done (DoD). 
+🔹 **Outcome:**  Ensured that Scrum practices were effectively implemented, improving team collaboration and project visibility. Identified backlog prioritization issues and optimized sprint planning, leading to a 20% improvement in sprint efficiency. Retrospectives helped identify blockers early, reducing sprint overruns.
+
+📂 **Project Files:**  
+- 🌐 [Daily-Standup](https://github.com/adeeba-aatif/QA-Portfolio/blob/main/SCRUM/Daily-Standup.md)
+- 🌐 [Retrospective](https://github.com/adeeba-aatif/QA-Portfolio/blob/main/SCRUM/Retrospective-Report.md)
+- 🌐 [Scrum Board](https://github.com/adeeba-aatif/QA-Portfolio/blob/main/SCRUM/Scrum-Board.md)
+- 🌐 [Sprint Planning](https://github.com/adeeba-aatif/QA-Portfolio/blob/main/SCRUM/Sprint-Planning.csv)
+- 🌐 [User Stories](https://github.com/adeeba-aatif/QA-Portfolio/blob/main/SCRUM/User-Stories.md)
+
 ## 🛠 Skills & Tools
 📌 **Manual Testing:** Test Case Design, Test Execution, Bug Tracking  
 📌 **API Testing:** Postman
@@ -72,8 +83,6 @@
 
 ## 📜 Certifications
 ✅ **ISTQB Certified Tester**  
-✅ **Certified Selenium WebDriver Expert**  
-✅ **Postman API Testing Certification**  
 
 ---
 
