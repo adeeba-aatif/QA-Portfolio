@@ -49,7 +49,7 @@
 
 📂 **Project Files:**  
 - 🌐 [Postman Collection](./Automated%20Testing/Postman/Generic_API_Collection.json) 
-- 📝 [API Test Cases](./API-Testing/API-Test-Cases.xlsx)  
+- 📝 [API Test Cases](./Automated%20Testing/Postman/API_Test_Cases.csv)  
 
 ---
 
