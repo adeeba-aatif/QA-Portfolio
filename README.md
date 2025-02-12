@@ -58,7 +58,7 @@
 🔹 **Outcome:**  System handled 500+ concurrent users with an average response time of 1.8 seconds, with minor optimizations recommended for peak load scenarios. 
 
 📂 **Project Files:**  
-- 🌐 [Jmeter Scripts](./Performance-Testing/Generic-JMeter_Test.jmx) 
+- 🌐 [Jmeter Scripts](Performance-Testing/Generic-JMeter_Test.jmx)
 
  
 ## 🛠 Skills & Tools
