@@ -14,7 +14,7 @@
  ┣ 📁 Automated Testing/
  ┃ ┣ 📄 Postman-Collection.json
  ┃ ┣ 📄 API-Test-Cases.xlsx
- ┣ 📁 Performance Testing/
+ ┣ 📁 Performance-Testing/
  ┃ ┣ 📄 JMeter-Test-Scripts/
  ┃ 📁 SCRUM/
  ┃ ┣ 📄 Retrospective-Report.md/
@@ -59,7 +59,9 @@
 🔹 **Outcome:**  System handled 500+ concurrent users with an average response time of 1.8 seconds, with minor optimizations recommended for peak load scenarios. 
 
 📂 **Project Files:**  
-- 🌐 [Jmeter Scripts](https://github.com/adeeba-aatif/QA-Portfolio/blob/main/Performance-Testing/Generic_JMeter_Test.jmx)
+
+- 🌐 [JMeter Scripts](Performance-Testing/Generic_JMeter_Test.jmx)
+
 
    ### 📌 4. SCRUM 
 🔹 **Scope:** Ensure that all Agile and Scrum ceremonies, sprint planning, backlog management, and sprint execution follow best practices. Validate the effectiveness of Scrum implementation in project management and product development.  
