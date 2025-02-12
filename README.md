@@ -35,7 +35,7 @@
 🔹 **Outcome:** Found and reported authentication issues  
 
 📂 **Project Files:**  
-- 📝 [Sample Test Cases](./Manual-Testing/Sample-Test-Cases.xlsx)  
+- 📝 [Sample Test Cases](./Manual Testing/Sample_Test_Cases.csv)  
 - 🐞 [Sample Bug Reports](./Manual-Testing/Sample-Bug-Report.xlsx)  
 
 
