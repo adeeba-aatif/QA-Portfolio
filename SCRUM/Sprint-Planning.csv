@@ -1,0 +1,4 @@
+Sprint Backlog,Task,Assigned To,Priority,Status
+User Authentication,Implement login API,John,High,In Progress
+Shopping Cart,Add item to cart functionality,Sarah,Medium,To Do
+Checkout Process,Integrate payment gateway,Mike,High,Completed
