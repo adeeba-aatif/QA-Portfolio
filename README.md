@@ -36,7 +36,7 @@
 
 📂 **Project Files:**  
 - 📝 [Sample Test Cases](./Manual%20Testing/Sample_Test_Cases.csv)
-- 🐞 [Sample Bug Reports](./Manual-Testing/Sample-Bug-Report.xlsx)  
+- 🐞 [Sample Bug Reports](./Manual%20Testing/Bug_Report_List.csv)  
 
 
 ---
