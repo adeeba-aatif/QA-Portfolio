@@ -9,7 +9,7 @@
 ```
 📁 QA-Portfolio/
  ┣ 📁 Manual Testing/
- ┃ ┣ 📄 Sample_Test_Cases.xlsx
+ ┃ ┣ 📄 Sample_Test_Cases.csv
  ┃ ┣ 📄 Sample Bug Reports.xlsx
  ┣ 📁 Automated Testing/
  ┃ ┣ 📄 Postman-Collection.json
@@ -32,7 +32,7 @@
 🔹 **Test Cases Executed:** 50+  
 🔹 **Outcome:** Found and reported authentication issues  
 
-[Sample Test Cases](https://github.com/adeeba-aatif/QA-Portfolio/blob/main/Manual%20Testing/Sample_Test_Cases.csv)
+
 📂 **Project Files:**  
 - 📝 [Sample Test Cases](https://github.com/adeeba-aatif/QA-Portfolio/blob/main/Manual%20Testing/Sample_Test_Cases.csv)  
 - 🐞 [Sample Bug Reports](https://github.com/adeeba-aatif/QA-Portfolio/blob/main/Manual%20Testing/Bug_Report_List.csv)  
