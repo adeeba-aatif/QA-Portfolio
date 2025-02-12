@@ -9,8 +9,8 @@
 ```
 📁 QA-Portfolio/
  ┣ 📁 Manual Testing/
- ┃ ┣ 📄 Sample-Test-Cases.xlsx
- ┃ ┣ 📄 Sample-Bug-Report.xlsx
+ ┃ ┣ 📄 Sample Test Cases.xlsx
+ ┃ ┣ 📄 Sample Bug Reports.xlsx
  ┣ 📁 Automated Testing/
  ┃ ┣ 📄 Postman-Collection.json
  ┃ ┣ 📄 API-Test-Cases.xlsx
@@ -33,8 +33,8 @@
 🔹 **Outcome:** Found and reported authentication issues  
 
 📂 **Project Files:**  
-- 📝 [Sample Test Cases](./Manual%20Testing/Sample_Test_Cases.csv)
-- 🐞 [Sample Bug Reports](./Manual%20Testing/Bug_Report_List.csv)  
+- 📝 [Sample Test Cases](./Manual_Testing/Sample_Test_Cases.csv)
+- 🐞 [Sample Bug Reports](./Manual_Testing/Bug_Report_List.csv)
 
 
 ---
