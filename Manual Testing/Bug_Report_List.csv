@@ -1,0 +1,24 @@
+Module,Bug ID,Bug Title,Description,Severity,Priority,Expected Behavior
+User Management Module,UM-001,Unable to Create User,Clicking on 'Create User' does nothing,Critical,High,User should be created successfully
+User Management Module,UM-002,Username Field Accepts Special Characters,Special characters allowed in username (!@#$%),Medium,Medium,Should allow only alphanumeric values
+User Management Module,UM-003,Duplicate Email Allowed,System allows duplicate email registration,High,High,Email should be unique
+User Management Module,UM-004,Password Not Encrypted,Password stored in plain text in DB,Critical,High,Password should be hashed
+User Management Module,UM-005,Forgot Password Not Sending Email,Reset password email not received,High,Medium,User should receive an email
+User Management Module,UM-006,Session Does Not Expire After Logout,Clicking logout doesn’t expire the session,High,High,Session should be terminated
+User Management Module,UM-007,Role-Based Access Control Not Working,User with lower privilege accessing admin page,Critical,High,Restrict access based on roles
+Loan Module,LM-001,Loan Application Stuck on Submission,Clicking 'Apply Loan' does nothing,Critical,High,Loan should be submitted
+Loan Module,LM-002,Loan Amount Accepting Negative Values,User can enter negative values,High,High,Should not allow negative values
+Loan Module,LM-003,EMI Calculation Incorrect,Incorrect EMI calculated for given interest rate,Critical,High,EMI should be correctly calculated
+Loan Module,LM-004,Interest Rate Not Updating,Changing interest rate does not reflect in calculations,High,High,Should update instantly
+Loan Module,LM-005,Loan Approval Without Documents,Loan is getting approved without required documents,Critical,High,System should validate documents
+Loan Module,LM-006,Incorrect Loan Status After Rejection,Status remains 'Pending' instead of 'Rejected',High,Medium,Status should update correctly
+Recovery Module,RM-001,Payment Not Reflecting in Account,User payment does not update balance,Critical,High,Payment should update account balance
+Recovery Module,RM-002,Recovery Date Auto-Changing,Due date gets modified automatically,High,High,Due date should remain unchanged
+Recovery Module,RM-003,Payment Confirmation Email Not Sent,No email confirmation after payment,High,Medium,Email should be sent
+Recovery Module,RM-004,Payment Gateway Timeout,Payment stuck while processing,High,High,Payment should process within time
+Recovery Module,RM-005,Incorrect Late Fee Calculation,Late fee applies wrongly on timely payments,High,High,Should only apply to overdue payments
+Loan Sanctioning Module,LS-001,Loan Gets Sanctioned Without Verification,Loan approval bypasses verification steps,Critical,High,Verification should be mandatory
+Loan Sanctioning Module,LS-002,Incorrect Credit Score Fetching,Wrong credit score displayed for applicant,High,High,Should fetch the correct score
+Loan Sanctioning Module,LS-003,Duplicate Loan Sanctioning,Same loan approved multiple times,Critical,High,Should prevent duplicate approvals
+Loan Sanctioning Module,LS-004,Sanction Letter Not Generated,Loan approved but no sanction letter generated,High,High,System should generate the letter
+Loan Sanctioning Module,LS-005,System Allows Loan Above Eligibility,User can apply for a higher amount than eligible,High,High,Should restrict loan amount
