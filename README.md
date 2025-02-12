@@ -37,7 +37,7 @@
 📂 **Project Files:**  
 - 📝 [Sample Test Cases](./Manual-Testing/Sample-Test-Cases.xlsx)  
 - 🐞 [Sample Bug Reports](./Manual-Testing/Sample-Bug-Report.xlsx)  
-- 🔧 [Selenium Sample Test Script](./Automation-Testing/Selenium-Webdriver/Sample-Login-Test.java)  
+
 
 ---
 
