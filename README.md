@@ -8,13 +8,13 @@
 ## 📂 Portfolio Structure
 ```
 📁 QA-Portfolio/
- ┣ 📁 Manual-Testing/
+ ┣ 📁 Manual Testing/
  ┃ ┣ 📄 Sample-Test-Cases.xlsx
  ┃ ┣ 📄 Sample-Bug-Report.xlsx
- ┣ 📁 API-Testing/
+ ┣ 📁 Automated Testing/
  ┃ ┣ 📄 Postman-Collection.json
  ┃ ┣ 📄 API-Test-Cases.xlsx
- ┣ 📁 Performance-Testing/
+ ┣ 📁 Performance Testing/
  ┃ ┣ 📄 JMeter-Test-Scripts/
  ┣ 📁 Reports/
  ┃ ┣ 📄 Sample-Test-Execution-Report.pdf
@@ -49,13 +49,21 @@
 
 📂 **Project Files:**  
 - 🌐 [Postman Collection](./Automated%20Testing/Postman/Generic_API_Collection.json) 
-- 📝 [API Test Cases](./Automated%20Testing/Postman/API_Test_Cases.csv)  
+- 📝 [API Test Cases](./Automated%20Testing/Postman/API_Test_Cases.csv)
 
----
+  ### 📌 3. Performaing Testing 
+🔹 **Scope:** Evaluate system response time, stability, and scalability under varying user loads.   
+🔹 **Tools Used:** Jmeter   
+🔹 **Test Cases Executed:** 20+ 
+🔹 **Outcome:**  System handled 500+ concurrent users with an average response time of 1.8 seconds, with minor optimizations recommended for peak load scenarios. 
 
+📂 **Project Files:**  
+- 🌐 [Jmeter Scripts](./Performance-Testing/Generic-JMeter_Test.jmx) 
+
+ 
 ## 🛠 Skills & Tools
 📌 **Manual Testing:** Test Case Design, Test Execution, Bug Tracking  
-📌 **API Testing:** Postman, REST Assured  
+📌 **API Testing:** Postman
 📌 **Performance Testing:** JMeter  
 📌 **Bug Tracking & Management:** JIRA, TestRail  
 📌 **Database Testing:** MySQL  
