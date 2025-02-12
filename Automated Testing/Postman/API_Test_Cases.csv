@@ -1,0 +1,20 @@
+Module,Test Case ID,Test Case Title,Test Steps,Expected Response Code,Expected Result,Priority
+Authentication,TC-Auth-001,Verify successful user login,User enters valid credentials,200 OK,User is logged in successfully,High
+Authentication,TC-Auth-002,Verify login with incorrect password,User enters incorrect password,401 Unauthorized,Error message displayed,High
+Authentication,TC-Auth-003,Verify login with empty credentials,User submits without entering credentials,400 Bad Request,Error message displayed,Medium
+Authentication,TC-Auth-004,Verify logout functionality,User clicks logout,200 OK,User session is terminated,High
+User Management,TC-User-001,Verify user creation,Send valid user data,201 Created,User is created successfully,High
+User Management,TC-User-002,Verify duplicate email restriction,Send request with an existing email,409 Conflict,Error message displayed,High
+User Management,TC-User-003,Verify fetching user details,Fetch user by valid ID,200 OK,User details retrieved,High
+User Management,TC-User-004,Verify updating user information,Send valid updated user details,200 OK,User information updated,High
+User Management,TC-User-005,Verify deleting a user,Send delete request with valid user ID,204 No Content,User is deleted successfully,High
+Loan Module,TC-Loan-001,Verify loan application submission,Send valid loan application data,201 Created,Loan application submitted,High
+Loan Module,TC-Loan-002,Verify fetching loan details,Fetch loan details by valid ID,200 OK,Loan details retrieved,High
+Loan Module,TC-Loan-003,Verify loan rejection scenario,Submit loan request with invalid data,400 Bad Request,Error message displayed,High
+Loan Module,TC-Loan-004,Verify loan approval,Approve loan with valid criteria,200 OK,Loan is approved,High
+Transaction,TC-Trans-001,Verify payment processing,Send valid payment request,200 OK,Payment is processed successfully,High
+Transaction,TC-Trans-002,Verify invalid payment handling,Send payment with insufficient balance,402 Payment Required,Error message displayed,High
+Transaction,TC-Trans-003,Verify payment history retrieval,Fetch payment history for user,200 OK,Payment history retrieved,Medium
+Recovery,TC-Recovery-001,Verify overdue loan retrieval,Fetch overdue loans for user,200 OK,Overdue loans retrieved,High
+Recovery,TC-Recovery-002,Verify loan recovery payment,Submit valid recovery payment,200 OK,Payment processed successfully,High
+Recovery,TC-Recovery-003,Verify invalid recovery payment,Attempt recovery payment without enough balance,402 Payment Required,Error message displayed,High
