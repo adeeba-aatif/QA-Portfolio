@@ -48,7 +48,7 @@
 🔹 **Outcome:** Ensured correct API response and performance  
 
 📂 **Project Files:**  
-- 🌐 [Postman Collection](./API-Testing/Postman-Collection.json)  
+- 🌐 [Postman Collection](./Automated%20Testing/Postman/Generic_API_Collection.json) 
 - 📝 [API Test Cases](./API-Testing/API-Test-Cases.xlsx)  
 
 ---
