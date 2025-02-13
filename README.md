@@ -61,6 +61,8 @@
 📂 **Project Files:**  
 
 - 🌐 [JMeter Scripts](./Performance-Testing/Generic_JMeter_Test.jmx)
+📂 **Project Files:**  
+- 🌐 [JMeter Scripts](Performance%20Testing/Generic_JMeter_Test.jmx)
 
 
    ### 📌 4. SCRUM 
