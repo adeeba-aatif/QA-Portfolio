@@ -37,11 +37,6 @@
 - 📝 [Sample Test Cases](https://github.com/adeeba-aatif/QA-Portfolio/blob/main/Manual%20Testing/Sample_Test_Cases.csv)  
 - 🐞 [Sample Bug Reports](https://github.com/adeeba-aatif/QA-Portfolio/blob/main/Manual%20Testing/Bug_Report_List.csv)  
 
-
-
-
----
-
 ### 📌 2. API Testing with Postman (Public API Example)
 🔹 **Scope:** REST API Functional Testing  
 🔹 **Tools Used:** Postman, REST Assured  
@@ -61,8 +56,6 @@
 📂 **Project Files:**  
 
 - 🌐 [JMeter Scripts](./Performance-Testing/Generic_JMeter_Test.jmx)
-📂 **Project Files:**  
-- 🌐 [JMeter Scripts](Performance%20Testing/Generic_JMeter_Test.jmx)
 
 
    ### 📌 4. SCRUM 
